@@ -1,4 +1,4 @@
-# AI Digital Twin Platform for Predictive Rural Development in Bharat
+# AI-Digital Twin Platform for Predictive Rural Development in Bharat
 
 ## Overview
 This project proposes an AI-powered Digital Twin platform designed to support predictive rural development in India. The platform aims to simulate rural environments using real-time data, artificial intelligence, and predictive analytics to improve agriculture, water management, employment planning, and disaster preparedness.
