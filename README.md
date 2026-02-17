@@ -8,7 +8,7 @@ The solution focuses on enabling proactive decision-making for farmers, policyma
 ---
 
 ## Problem Statement
-Rural India faces challenges such as crop loss, water scarcity, unemployment, and disaster risks due to lack of integrated predictive AI systems. Existing solutions mostly rely on historical data without providing real-time simulations or actionable insights.
+Rural-India faces challenges such as crop loss, water scarcity, unemployment, and disaster risks due to lack of integrated predictive AI systems. Existing solutions mostly rely on historical data without providing real-time simulations or actionable insights.
 
 This project addresses the gap by introducing an AI-based predictive rural intelligence platform.
 
